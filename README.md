@@ -13,7 +13,10 @@ docker-compose stop
 # Docker コンテナの停止・削除
 docker-compose down
 
-```
+```  
 
-接続先
+srcディレクトリにsrcを書いていく。
+
+## 接続先
 http://localhost:8080
+
